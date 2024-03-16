@@ -1,8 +1,9 @@
 {
-  "homepage": "https://AchrafMR.github.io/achraf_mechhour_portfolio",
-  "name": "achraf_mechhour_portfolio",
+  "homepage": "./",
+  "name": "electric",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
